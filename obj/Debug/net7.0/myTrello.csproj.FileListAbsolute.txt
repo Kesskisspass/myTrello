@@ -1,0 +1,159 @@
+E:\Projets-code\myTrello\bin\Debug\net7.0\myTrello.exe
+E:\Projets-code\myTrello\bin\Debug\net7.0\myTrello.deps.json
+E:\Projets-code\myTrello\bin\Debug\net7.0\myTrello.runtimeconfig.json
+E:\Projets-code\myTrello\bin\Debug\net7.0\myTrello.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\myTrello.pdb
+E:\Projets-code\myTrello\bin\Debug\net7.0\Google.Protobuf.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\MySql.Data.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\ZstdNet.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\comerr64.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\gssapi64.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\k5sprt64.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\krb5_64.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\krbcc64.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\MySqlConnector.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projets-code\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.csproj.AssemblyReference.cache
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfoInputs.cache
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfo.cs
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.csproj.CoreCompileInputs.cache
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.csproj.CopyComplete
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.dll
+E:\Projets-code\myTrello\obj\Debug\net7.0\refint\myTrello.dll
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.pdb
+E:\Projets-code\myTrello\obj\Debug\net7.0\myTrello.genruntimeconfig.cache
+E:\Projets-code\myTrello\obj\Debug\net7.0\ref\myTrello.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\myTrello.exe
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\myTrello.deps.json
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\myTrello.runtimeconfig.json
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\myTrello.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\myTrello.pdb
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\comerr64.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\gssapi64.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\krb5_64.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\krbcc64.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kessk\Desktop\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.csproj.AssemblyReference.cache
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfoInputs.cache
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfo.cs
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.csproj.CoreCompileInputs.cache
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.csproj.CopyComplete
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.dll
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\refint\myTrello.dll
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.pdb
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\myTrello.genruntimeconfig.cache
+C:\Users\kessk\Desktop\myTrello\obj\Debug\net7.0\ref\myTrello.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\myTrello.exe
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\myTrello.deps.json
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\myTrello.runtimeconfig.json
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\myTrello.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\myTrello.pdb
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\comerr64.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\gssapi64.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\krb5_64.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\krbcc64.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.csproj.AssemblyReference.cache
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfoInputs.cache
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.AssemblyInfo.cs
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.csproj.CoreCompileInputs.cache
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.csproj.CopyComplete
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\refint\myTrello.dll
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.pdb
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\myTrello.genruntimeconfig.cache
+C:\Users\kessk\Desktop\Projet Fil Rouge\myTrello\obj\Debug\net7.0\ref\myTrello.dll
